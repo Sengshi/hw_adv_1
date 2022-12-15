@@ -1,2 +1,2 @@
 def jump():
-    print(f'Я прыгнул')
+    print(f'Прыг-скок')
